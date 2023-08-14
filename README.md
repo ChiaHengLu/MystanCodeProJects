@@ -6,10 +6,10 @@ Watch my *[DEMO VIDEOS!](https://www.youtube.com/playlist?list=PLiMj75tA4PB_iHLB
 
 ## Project Source Codes:
 * [Breakout Game](https://github.com/ChiaHengLu/MystanCodeProJects/tree/main/stanCode_Projects/break_out_game)
-  * animation & game design
+ * animation & game design
 
 * [Pedestrian Removing Application](https://github.com/ChiaHengLu/MystanCodeProJects/tree/main/stanCode_Projects/predestrian_removing_application)
-  * image processing
+ * image processing
 
 * [Name Popularity Searching System](https://github.com/ChiaHengLu/MystanCodeProJects/tree/main/stanCode_Projects/name_searching_sysytem)
-  * data structure
+ * data structure
